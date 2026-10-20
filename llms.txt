@@ -5,6 +5,7 @@
 ## Key pages
 - [Bay Area relocation guide](relocation.html): Moving from California to Northern Nevada — taxes, neighborhoods, trade-offs, process
 - [Community guides](communities.html): Agent-written guides to every community we serve
+- [Luxury homes](luxury.html): Luxury representation across Montrêux, ArrowCreek, Somersett, Genoa and Lake Tahoe
 - [Education hub](learn.html): Plain-English answers to real estate questions, updated daily
 - [Buying process](buy.html) · [Selling process](sell.html) · [Meet the team](team.html)
 
