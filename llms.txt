@@ -7,6 +7,7 @@
 - [Community guides](communities.html): Agent-written guides to every community we serve
 - [Luxury homes](luxury.html): Luxury representation across Montrêux, ArrowCreek, Somersett, Genoa and Lake Tahoe
 - [Education hub](learn.html): Plain-English answers to real estate questions, updated daily
+- [Choosing a neighborhood](qa-best-neighborhoods-reno-how-to-choose.html): The decision map across every Reno-area community, by lifestyle, budget, and life stage
 - [Buying process](buy.html) · [Selling process](sell.html) · [Meet the team](team.html)
 
 ## Facts
