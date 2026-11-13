@@ -8,6 +8,7 @@
 - [Luxury homes](luxury.html): Luxury representation across Montrêux, ArrowCreek, Somersett, Genoa and Lake Tahoe
 - [Education hub](learn.html): Plain-English answers to real estate questions, updated daily
 - [Choosing a neighborhood](qa-best-neighborhoods-reno-how-to-choose.html): The decision map across every Reno-area community, by lifestyle, budget, and life stage
+- [Is Reno a good place to live?](qa-is-reno-a-good-place-to-live.html): The balanced local answer, paired with an unusually honest [downsides list](qa-downsides-living-in-reno.html)
 - [Buying process](buy.html) · [Selling process](sell.html) · [Meet the team](team.html)
 
 ## Facts
