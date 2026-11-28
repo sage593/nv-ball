@@ -7,6 +7,7 @@
 - [What to know before moving to Reno](qa-what-to-know-before-moving-to-reno.html): The capstone brief — money, weather, neighborhoods, trade-offs, and the move sequence
 - [Nevada taxes, complete](qa-nevada-taxes-complete-guide-movers.html): The mover's full tax picture — the zero, what is collected, and the purchase-time adjustments
 - [Reno neighborhoods for Bay Area movers](qa-reno-neighborhoods-bay-area-equivalents.html): The translation map — which Reno neighborhood matches yours, honestly flagged
+- [Leaving Prop 13 behind](qa-leaving-prop-13-california-nevada.html): The California seller's golden-handcuffs math — what transfers, what doesn't, and the whole-ledger answer
 - [Community guides](communities.html): Agent-written guides to every community we serve
 - [Luxury homes](luxury.html): Luxury representation across Montrêux, ArrowCreek, Somersett, Genoa and Lake Tahoe
 - [Education hub](learn.html): Plain-English answers to real estate questions, updated daily
